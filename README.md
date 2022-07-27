@@ -1,4 +1,5 @@
-Deployment to a third party service - <a>https://62e1745bc154f705c6cba02e--wondrous-frangollo-6b3996.netlify.app/</a>
+Deployment to a third party service - 
+<a>https://wondrous-frangollo-6b3996.netlify.app/</a>
 -------------------------------------------------------------------------
 Initialization: 
 1. git clone https://github.com/hahaetyaroma/react-table-rtk-ts.git
