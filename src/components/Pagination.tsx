@@ -21,7 +21,7 @@ export const Pagination = ({
 
   return (
     <div>
-      <ul className="flex justify-around py-[16px]">
+      <ul className="flex justify-between px-[40px] py-[16px]">
         <Router>
           <Link to={`${currentPage}`}>
             <button className="text-2xl font-medium" onClick={onClickPrevPage}>
