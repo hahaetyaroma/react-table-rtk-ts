@@ -1,9 +1,7 @@
-# React Table App: List ECommerce Products For Sorting and Grouping
-In this episode of my coding series about ecommerce website tools and utilities, I'm going to introduce react-table package. 
-
-It is a package to build and design powerful datagrid experiences while retaining 100% control over markup and styles.
-
-We are going to fetch sample products from a fake api and render them as datagrid with sorting and grouping capabilities.
-
-
-Lets Start
+Deployment to a third party service - <a>https://62e1745bc154f705c6cba02e--wondrous-frangollo-6b3996.netlify.app/</a>
+-------------------------------------------------------------------------
+Initialization: 
+1. git clone https://github.com/hahaetyaroma/react-table-rtk-ts.git
+2. Open the project directory || cd react-table-rtk-ts
+3. npm i - Installing dependencies
+4. npm run start - Start the project || <a>http://localhost:3000/</a> - project in browser
