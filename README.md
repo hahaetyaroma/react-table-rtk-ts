@@ -5,3 +5,5 @@ Initialization:
 2. Open the project directory || cd react-table-rtk-ts
 3. npm i - Installing dependencies
 4. npm run start - Start the project || <a>http://localhost:3000/</a> - project in browser
+
+Stack: React, TypeScript, Redux toolkit, RTK Query, React-table.
